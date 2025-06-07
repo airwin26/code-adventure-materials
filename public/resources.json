@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "React Documentation",
+    "url": "https://reactjs.org/docs/getting-started.html",
+    "category": "Frontend",
+    "description": "Official React documentation"
+  },
+  {
+    "id": 2,
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/",
+    "category": "Web Development",
+    "description": "Mozilla Developer Network documentation"
+  }
+] 

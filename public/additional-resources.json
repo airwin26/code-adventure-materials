@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Team Handbook",
+    "url": "https://example.com/handbook",
+    "category": "Internal"
+  },
+  {
+    "id": 2,
+    "title": "Camp Schedule",
+    "url": "https://example.com/schedule",
+    "category": "Schedule"
+  }
+] 
